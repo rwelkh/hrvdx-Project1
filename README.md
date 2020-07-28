@@ -1,2 +1,2 @@
-# hrvdx-Project1
+# hrvdx-Project1-MRS
 movie recommendation system
